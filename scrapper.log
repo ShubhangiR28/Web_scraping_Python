@@ -1,0 +1,43 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 734-770-549
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:34] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:34] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'samsung', 'Name': 'Shatadal  Ghose ', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'I am giving this review after 2wk of using this phone, Battery backup is super all over fully worth of singel penny.  I am a student and I addicted by social network site and online gaming but at that time I meet with a Physicist and he told me for use this phone and and never use smart phone aprox 3mnth,  believe me now I am spend much more time for my study purpose and and I feel more batter than my previous days. Thank You Flipkart Thank. you Samsung'}, {'Product': 'samsung', 'Name': 'Roshan Kumar  ', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'very good mobile'}, {'Product': 'samsung', 'Name': 'Durga Prasad', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'super delivery nice phone'}, {'Product': 'samsung', 'Name': 'Sourav Gandhi', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Best as basic phone. On a moderate use, I am using it from last 7 days without charging it. Great to buy this if you only want to dial and receives calls with long battery backup.'}, {'Product': 'samsung', 'Name': 'Akash Nagvekar.', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'nice mobile..and Delivery time to time'}, {'Product': 'samsung', 'Name': 'Debajit Saikia', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Quality good. value of money.'}, {'Product': 'samsung', 'Name': 'Prabhudutta  Dash', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Nice mobile my Father is Happy'}, {'Product': 'samsung', 'Name': 'Aryan  Jadhav', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'This phone is amazing for students as it is only for calling and it wont distract them from any of the  social media. Still better than iPhone x. Thanks Flipkart for the fast delivery.'}, {'Product': 'samsung', 'Name': 'Ameya Gaandhe', 'Rating': '5', 'CommentHead': 'Best Phone @Best Price', 'Comment': 'This is My 2nd Phone as I use my iPhone for emails & other stuff, but if you are looking for best quality, rough Handling, strong battery life & Light weight phone this is the phone for you.Very nice phone with bright display & nice basic key padThank you Samsung'}, {'Product': 'samsung', 'Name': 'Bappi  Sarkar', 'Rating': '4', 'CommentHead': 'Nice product', 'Comment': 'Good \u263a\ufe0f'}, {'Product': 'samsung', 'Name': 'Bappi  Sarkar', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Good \u263a\ufe0f'}]
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:53] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:53] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [12/Jan/2024 20:21:53] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\shubh\\OneDrive\\Desktop\\Python_Project\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\shubh\\OneDrive\\Desktop\\Python_Project\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\shubh\\OneDrive\\Desktop\\Python_Project\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\shubh\\OneDrive\\Desktop\\Python_Project\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\shubh\\OneDrive\\Desktop\\Python_Project\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 734-770-549
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 734-770-549
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:56:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:56:57] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:56:57] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:56:57] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'realme', 'Name': 'Sunil Chauhan', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Superb \U0001f44c\U0001f44c\U0001f44c\U0001f44c\U0001f44c\U0001f44c\U0001f44c\U0001f44c'}, {'Product': 'realme', 'Name': 'Nitish Kumar', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': "Best camera I'm fully satisfied"}, {'Product': 'realme', 'Name': 'Vishal Srivastava', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Good Product in this price !'}, {'Product': 'realme', 'Name': 'Mustari  Khatun ', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Nice mobile according to this price'}, {'Product': 'realme', 'Name': 'Kulwinder Singh', 'Rating': '4', 'CommentHead': 'Very Good', 'Comment': 'Best performance. Smooth and camara quality is good . Best phone in cheap price'}, {'Product': 'realme', 'Name': 'Neetesh Patel', 'Rating': '5', 'CommentHead': 'Brilliant', 'Comment': 'Very good product \u263a\ufe0f'}, {'Product': 'realme', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'This was performance are very good'}, {'Product': 'realme', 'Name': 'Rakesh Hudda', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Wow nyc look'}, {'Product': 'realme', 'Name': 'Sekh Morselim', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': "Thanks for Flipkart \U0001f60dIt's awesome mobile \U0001f618"}, {'Product': 'realme', 'Name': 'Naveen  Singh', 'Rating': '5', 'CommentHead': 'Wonderful', 'Comment': 'Realme C51 Best Phone 4G Device Model By IPhone Look \U0001f44c \U0001f60d'}, {'Product': 'realme', 'Name': 'Naveen  Singh', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Realme C51 Best Phone 4G Device Model By IPhone Look \U0001f44c \U0001f60d'}]
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:57:09] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:57:09] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [17/Jan/2024 12:57:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
